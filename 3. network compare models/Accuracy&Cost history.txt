@@ -1,0 +1,443 @@
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.000052
+Acc: 0.885714
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.006943
+Acc: 0.902857
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.000136
+Acc: 0.874286
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.200470
+Acc: 0.896356
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 85
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.170007
+Acc: 0.872875
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.138965
+Acc: 0.861538
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.058493
+Acc: 0.892308
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.042350
+Acc: 0.902024
+
+-- 32VGG(+����ȭ) 2 depth-----------------------
+learning_rate: 0.00070
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.057956
+Acc: 0.893117
+
+-- 32VGG(+����ȭ) 2 depth-----------------------
+learning_rate: 0.00070
+training_epochs: 62
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.231683
+Acc: 0.883401
+
+-- 32VGG(+����ȭ) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.085014
+Acc: 0.901215
+
+-- 32VGG(+����ȭ) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.257803
+Acc: 0.871255
+
+-- 32VGG(+����ȭ) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.088153
+Acc: 0.873684
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.003895
+Acc: 0.857143
+
+2017-05-12 #############################################################################################################
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.135447
+Acc: 0.885830
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.183133
+Acc: 0.879352
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.179627
+Acc: 0.889069
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.111033
+Acc: 0.880972
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.206094
+Acc: 0.866397
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.154332
+Acc: 0.854251
+
+-- newwww 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.162337
+Acc: 0.881781
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.069838
+Acc: 0.899595
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.035202
+Acc: 0.896356
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.065861
+Acc: 0.895547
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.009785
+Acc: 0.893927
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.117987
+Acc: 0.863158
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000713
+Acc: 0.828571
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000018
+Acc: 0.805714
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 70
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000427
+Acc: 0.914286
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 70
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000000
+Acc: 0.880000
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 60
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.002699
+Acc: 0.857143
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 70
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000323
+Acc: 0.845714
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 70
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000017
+Acc: 0.851429
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 70
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000038
+Acc: 0.874286
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 70
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000008
+Acc: 0.834286
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000063
+Acc: 0.891429
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 200
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.001690
+Acc: 0.868826
+
+-- 32VGG 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 300
+train/test: 0.900 / 0.100
+Cost: 0.000133
+Acc: 0.811429
+
+-- new4 2 depth-----------------------
+learning_rate: 0.00100
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.080011
+Acc: 0.868826
+
+-- new4 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.184829
+Acc: 0.878543
+
+-- new4 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.169228
+Acc: 0.885020
+
+-- new4 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.180035
+Acc: 0.874494
+
+-- new4 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 120
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.152582
+Acc: 0.893927
+
+-- new4 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 150
+batch_size: 3000
+train/test: 0.900 / 0.100
+FS/FN: 4 / 32
+Cost: 0.219925
+Acc: 0.882591
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00050
+training_epochs: 100
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.148185
+Acc: 0.888259
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00010
+training_epochs: 200
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.177468
+Acc: 0.897976
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00005
+training_epochs: 200
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.091847
+Acc: 0.917409
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00003
+training_epochs: 250
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.218141
+Acc: 0.923077
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.00001
+training_epochs: 350
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.109009
+Acc: 0.932794
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.000005
+training_epochs: 420
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.114936
+Acc: 0.901215
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.000005
+training_epochs: 420
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.117331
+Acc: 0.896356
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.000005
+training_epochs: 400
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.179862
+Acc: 0.909312
+
+-- 32VGG(+lrn) 2 depth-----------------------
+learning_rate: 0.000005
+training_epochs: 400
+batch_size: 3000
+train/test: 0.900 / 0.100
+Cost: 0.148075
+Acc: 0.919838
+
