@@ -1,0 +1,77 @@
+-- conv5 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 500
+batch_size: 4000
+Cost: 0.000000
+Accuracy: 0.893695
+
+-- conv8 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 500
+batch_size: 4000
+Cost: 0.000000
+Accuracy: 0.906581
+
+-- conv8 3 depth-----------------------
+learning_rate: 0.009000
+training_epochs: 50
+batch_size: 4000
+Cost: 2.430618
+Accuracy: 0.623562
+
+-- conv6 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 120
+batch_size: 4000
+Cost: 0.075062
+Accuracy: 0.888173
+
+-- conv6 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.000005
+Accuracy: 0.921767
+
+-- conv7 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 230
+batch_size: 4000
+Cost: 0.000004
+Accuracy: 0.918546
+
+-- conv7 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.000002
+Accuracy: 0.919926
+
+-- conv7 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 180
+batch_size: 4000
+Cost: 0.046897
+Accuracy: 0.906581
+
+-- conv6 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 300
+batch_size: 4000
+Cost: 0.000003
+Accuracy: 0.914864
+
+-- conv6_2 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.000002
+Accuracy: 0.905660
+
+-- conv6_2 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 170
+batch_size: 4000
+Cost: 0.000002
+Accuracy: 0.904740
+

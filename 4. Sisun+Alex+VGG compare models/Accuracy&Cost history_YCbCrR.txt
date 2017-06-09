@@ -1,0 +1,74 @@
+-- conv5 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 300
+batch_size: 4000
+Cost: 0.000000
+Accuracy: 0.895996
+criterion2: 790.938053
+fire_trueCnt: 678, fire_falseCnt: 120
+nofire_trueCnt: 1269, nofire_falseCnt: 106
+
+-- conv5 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 500
+batch_size: 4000
+Cost: 0.029935
+Accuracy: 0.900138
+criterion2: 778.461143
+fire_trueCnt: 670, fire_falseCnt: 114
+nofire_trueCnt: 1286, nofire_falseCnt: 103
+
+-- conv6 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.000009
+Accuracy: 0.924528
+criterion2: 787.979695
+fire_trueCnt: 706, fire_falseCnt: 86
+nofire_trueCnt: 1303, nofire_falseCnt: 78
+
+-- conv7 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 230
+batch_size: 4000
+Cost: 0.000000
+Accuracy: 0.907501
+criterion2: 836.392110
+fire_trueCnt: 736, fire_falseCnt: 110
+nofire_trueCnt: 1236, nofire_falseCnt: 91
+
+-- conv8 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.000000
+Accuracy: 0.910723
+criterion2: 810.758323
+fire_trueCnt: 714, fire_falseCnt: 83
+nofire_trueCnt: 1265, nofire_falseCnt: 111
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+-- conv6 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 500
+batch_size: 4000
+Cost: 0.000000
+Accuracy: 0.913023
+criterion2: 791.332912
+fire_trueCnt: 697, fire_falseCnt: 106
+nofire_trueCnt: 1287, nofire_falseCnt: 83
+
+-- conv8 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.001338
+Accuracy: 0.907041
+criterion2: 780.924552
+fire_trueCnt: 681, fire_falseCnt: 130
+nofire_trueCnt: 1290, nofire_falseCnt: 72
+

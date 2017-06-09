@@ -1,0 +1,40 @@
+-- conv5 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 210
+batch_size: 4000
+Cost: 0.000001
+Accuracy: 0.915324
+criterion2: 811.791872
+fire_trueCnt: 720, fire_falseCnt: 105
+nofire_trueCnt: 1269, nofire_falseCnt: 79
+
+-- conv6 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.000001
+Accuracy: 0.884492
+criterion2: 771.590939
+fire_trueCnt: 647, fire_falseCnt: 152
+nofire_trueCnt: 1275, nofire_falseCnt: 99
+
+-- conv7 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 230
+batch_size: 4000
+Cost: 0.000000
+Accuracy: 0.908422
+criterion2: 812.241231
+fire_trueCnt: 713, fire_falseCnt: 85
+nofire_trueCnt: 1261, nofire_falseCnt: 114
+
+-- conv8 3 depth-----------------------
+learning_rate: 0.000900
+training_epochs: 200
+batch_size: 4000
+Cost: 0.000001
+Accuracy: 0.905660
+criterion2: 811.240912
+fire_trueCnt: 709, fire_falseCnt: 88
+nofire_trueCnt: 1259, nofire_falseCnt: 117
+
